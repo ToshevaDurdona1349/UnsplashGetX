@@ -1,7 +1,6 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:unsplash_app/controllers/collection_photos_controller.dart';
-
 import '../models/collections_photos.dart';
 import '../services/log_service.dart';
 
